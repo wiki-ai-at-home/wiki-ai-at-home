@@ -35,10 +35,9 @@ The project adheres to strict ethical guidelines, focusing on transparency, acco
 - Community feedback is encouraged and incorporated to improve model reliability and trustworthiness.
 
 ##How do you justify using AI models that were initially trained in unethical ways for developing ethical AI?
--For a detailed explanation, please see our document: path_to_actual_document.pdf
+-For a detailed explanation, please see [A Critical examination of using unethical AI to build ethical AI](docs/ethicalAI.txt)
 
 ## Why are you developing OptchaNull, and where can I find more about the underlying research and motivations?
-
-A: OptchaNull is being developed as an ethical alternative to traditional CAPTCHA systems, which often rely on tasks that can be intrusive and user-unfriendly. Our goal is to create a system that respects user privacy and enhances user experience by utilizing voluntary microtasks that contribute directly to AI training and validation, and being honest about doing so, while offering users the optchan to easily decline participation, and no false sense of security to website partners. For a detailed insight philosophy behind OptchaNull, please see path_to_another_document.pdf
+-OptchaNull is being developed as an ethical alternative to traditional CAPTCHA systems, which often rely on tasks that can be intrusive and user-unfriendly. Our goal is to create a system that respects user privacy and enhances user experience by utilizing voluntary microtasks that contribute directly to AI training and validation, and being honest about doing so, while offering users the optchan to easily decline participation, and no false sense of security to website partners. For more, see, [What's wrong with Captcha?](https://github.com/wiki-ai-at-home/wiki-ai-at-home/blob/587890dd8fda44263749fff5debd8e76ade2df02/docs/Optchanull.txt)
 
 
