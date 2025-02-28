@@ -46,9 +46,11 @@ Wiki-AI-@Home is an ethical, decentralized AI training system designed to enable
 │   ├──  funding.md        # Crowdfunding & grant strategies
 │
 ├──  docs/                   # Technical Documentation
-│   ├──  ARCHITECTURE.md   # System design & workflow
+│   ├──  Optchanull.txt    # What's wrong with (re)Captcha?
 │   ├──  CONTRIBUTING.md   # How to contribute (code, data, validation)
-│   ├── ROADMAP.md       # Milestones & progress tracking
+│   ├──  ARCHITECTURE.md   # System design & workflow
+│   ├──  EthicalAI.txt     # Critical examination of using unethical AI to build ethical AI
+│   ├── ROADMAP.md        # Milestones & progress tracking
 │
 ├── README.md               # Project Breakdown
 ├── FAQ.md                  # Frequently Asked Questions
