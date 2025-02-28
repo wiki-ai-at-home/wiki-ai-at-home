@@ -1,0 +1,29 @@
+A Critical Look at Using Unethical AI to Help Develop Ethical AI
+1. The Reality Check: Bootstrapping an Ethical AI Without a Base Model is Nearly Impossible
+
+It's challenging to develop a new AI model from scratch without significant resources, often requiring millions in compute costs. Even well-intentioned AI projects like those from EleutherAI and Hugging Face started by modifying existing models. The alternative would be to allow unethical corporations to continue dominating AI development. We use available tools as a means to an end, not an endorsement of their flaws.
+
+2. The Harm Reduction Argument: Using What Exists to Build Something Better
+
+Rejecting all existing AI tools would mean missing the opportunity to improve them. We audit, filter, and enhance these tools rather than reinforcing their unethical origins. Similar to how ethical hackers improve cybersecurity, we use AI to expose and mend its flaws, focusing on harm reduction rather than avoidance.
+
+3. The “Fruit of the Poisoned Tree” Fallacy
+
+Ethics in AI isn't binary; it's not a matter of being forever tainted versus being perfectly clean. Historical examples include scientific advances that, despite unethical origins, were later used ethically, like certain medical studies. We aim not to reinforce past harms but to reverse them, making progress by learning from and correcting previous mistakes.
+
+4. The Transition Plan: Moving Away from Existing AI Over Time
+
+Our strategy involves three phases:
+
+Phase 1: Utilize existing open-source AI to initiate development.
+Phase 2: Train our models using a validated dataset built from scratch.
+Phase 3: Completely transition to models trained entirely by our community, eliminating external dependencies.
+This approach ensures that our reliance on existing models is temporary and strategic, not permanent.
+
+5. The Alternative is Worse
+
+Starting from scratch without leveraging any existing AI resources would require an unfeasible level of funding and resources. Currently, the development of AI is predominantly in the hands of corporations focused on profit, often producing biased and restrictive technologies. If we refrain from acting, these corporate-driven models will prevail.
+
+Final Summary: How You Can Justify It
+
+Using existing AI tools responsibly does not equate to unethical practices; rather, ignoring the potential to improve these tools does. Harm reduction is more pragmatic than abstention from using AI. By refining and correcting flawed tools, we make significant strides in scientific and ethical progress. The goal is to evolve into a fully community-driven, independent AI model. This transition is a process, not an immediate change, and it's about fixing AI, not abandoning it to large corporations. Doing nothing changes nothing, so we're committed to building a real alternative.
