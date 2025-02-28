@@ -9,11 +9,48 @@ Wiki-AI-@Home is an ethical, decentralized AI training system designed to enable
 - **Community-Driven Validation**: Utilize volunteer efforts to validate and refine datasets.
 - **Ethical AI Development**: Adhere to strict ethical guidelines in AI training and usage.
 
-## Repository Structure
-
----
-
 ## ** Repository Structure**
+ wiki-ai-at-home
+├──  client/                 # AI-@Home Volunteer Computing Client
+│   ├──  frontend/          # GUI & user interaction
+│   ├──  backend/           # Compute sharing, task management
+│   ├──  networking/        # Secure distributed computing framework
+│   ├──  README.md         # Instructions & setup guide
+│
+├──  website/                # Main website & volunteer portal
+│   ├──  frontend/          # Static web pages, UI/UX
+│   ├──  backend/           # API for data submission, user tracking
+│   ├──  README.md         # Setup & deployment guide
+│
+├──  models/                 # AI Models & Training
+│   ├──  core-llm/          # Initial LLM trained using only open source, donated, and public domain data, validated and curated.
+│   ├──  ai-training-ai/    # Specialized AI trainers (Core model will be specialized into models which will be used for training a more powerful general model, and useable independently.)
+│   ├──  README.md         # Placeholder - models will each have their own README upon initialization of training.
+│
+├──  datasets/               # Training Data & Validation Tools
+│   ├──  raw/               # Original, unfiltered data
+│   ├──  cleaned/           # Verified, structured datasets
+│   ├──  validation/        # Crowdsourced review tasks
+│   ├──  README.md         # How to contribute & validate data
+│
+├──  optchanull/             # CAPTCHA Replacement
+│   ├──  frontend/          # User interaction elements
+│   ├──  backend/           # Task management & security
+│   ├──  README.md         # Implementation details
+│
+├──  governance/             # Legal & Organizational Docs
+│   ├──  non-profit.md      # Steps for legal non-profit formation
+│   ├──  ethics.md          # Ethical safeguards & governance
+│   ├──  funding.md        # Crowdfunding & grant strategies
+│
+├──  docs/                   # Technical Documentation
+│   ├──  ARCHITECTURE.md   # System design & workflow
+│   ├──  CONTRIBUTING.md   # How to contribute (code, data, validation)
+│   ├── ROADMAP.md       # Milestones & progress tracking
+│
+├── README.md               # Project Breakdown
+├── FAQ.md                  # Frequently Asked Questions
+└── LICENSE                 # Open-source license (e.g., AGPLv3, MIT, etc.)
 
 
 
