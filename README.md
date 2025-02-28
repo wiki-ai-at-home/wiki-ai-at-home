@@ -10,6 +10,8 @@ Wiki-AI-@Home is an ethical, decentralized AI training system designed to enable
 - **Ethical AI Development**: Adhere to strict ethical guidelines in AI training and usage.
 
 ## ** Repository Structure**
+
+```plaintext
  wiki-ai-at-home
 ├──  client/                 # AI-@Home Volunteer Computing Client
 │   ├──  frontend/          # GUI & user interaction
@@ -51,7 +53,7 @@ Wiki-AI-@Home is an ethical, decentralized AI training system designed to enable
 ├── README.md               # Project Breakdown
 ├── FAQ.md                  # Frequently Asked Questions
 └── LICENSE                 # Open-source license (e.g., AGPLv3, MIT, etc.)
-
+```
 
 
 
